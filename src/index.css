@@ -11,10 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-
 .gridMain{
   display: grid;
   height: 100px;
-  grid-template-columns: auto;
   grid-template-rows: 100px;
 }
